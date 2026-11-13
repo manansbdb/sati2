@@ -1,0 +1,14 @@
+{
+  "name": "SATI 2 — Leitor & Busca Unificada",
+  "short_name": "SATI 2",
+  "description": "Leitor de código de barras/QR com câmera robusta e busca unificada (online ou offline).",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
